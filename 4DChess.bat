@@ -1,0 +1,9 @@
+@echo off
+echo Loading 4DChess...
+echo Press any key to play...
+pause > nul
+cls
+py ./script/main.py
+echo.
+echo Press any key to exit...
+pause > nul
